@@ -8,9 +8,12 @@ We are looking for a research intern to work on computer vision research in Univ
 - Object and scene understanding.
 
 ## Objectives
-Semantic scene perception and understanding is a fundamental task for many modern applications (e.g. mobile robot navigation). To achieve such task, semantic segmentation acts as an initial step to many subsequent processes : person percepton, obstacle avoidance, semantic mapping, etc. Semantic Segmentation is the process of assigning each pixel of an image to a defined class. Similarly to many other computer vision tasks, deep learning approaches and convolutional neural networks (CNN) achieve state-of-the-art results in various semantic segmentation benchmarks, in spite of the high computational cost of such methods. However, many modern applications require real-time performance to be usable, which stresses the importance of designing efficient and accurate CNN models.
+Semantic scene perception and understanding is a fundamental task for many modern applications (e.g. mobile robot navigation). To achieve such task, semantic segmentation acts as an initial step to many subsequent processes : person percepton, obstacle avoidance, semantic mapping, etc. Semantic Segmentation is the process of assigning each pixel of an image to a defined class. Similarly to many other computer vision tasks, deep learning approaches and convolutional neural networks (CNN) achieve state-of-the-art results in various semantic segmentation benchmarks, in spite of the high computational cost of such methods. However, many modern applications require real-time performance to be usable, which stresses the importance of designing efficient and accurate CNN models
 
 On the other hand, the advent of low-cost depth sensors brought an additional input in addition to the common RBG image. Moreover, it has been shown that the additional geometric information brought by depth maps improve many vision tasks \[1\]. Applying both modalities for semantic segmentation is known as *RGB-D semantic segmentation*. Although many CNN-based approaches has been designed in recent years \[2\], they are mostly heavyweight models that are not suited for real-time inference on low-cost devices \[3\].
+
+![Example of RGB-D Semantic Segmentation](./example_rgbd_segmentation.png)
+
 
 The objective of this research internship is to design novel RGB-D semantic segmentation approaches, with an interest towards efficient network design. The intern will collaborate with the rest of the team on various research activities :
 - Establishing a bibliography of existing RGB-D semantic segmentation approaches and benchmarks

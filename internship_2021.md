@@ -15,12 +15,18 @@ On the other hand, the advent of low-cost depth sensors brought an additional in
 ![Example of RGB-D Semantic Segmentation](./example_rgbd_segmentation.png)
 
 
-The objective of this research internship is to design novel RGB-D semantic segmentation approaches, with an interest towards efficient network design. The intern will collaborate with the rest of the team on various research activities :
-- Establishing a bibliography of existing RGB-D semantic segmentation approaches and benchmarks
-- Proposing and implementing new methods relying on state-of-the-art vision architectures.
-- Conducting experiments on common RGB-D datasets to evaluate the designed models.
+The objective of this internship is to collaborate with our researchers in FoX team towards novel RGB-D semantic segmentation approaches, with an interest towards efficient network design.
 
-The candidate is expected to have great knowledge of computer vision and deep learning. In addition, good programming skills in python and deep learning frameworks (PyTorch, Tensorflow/Keras) are required. Experience on practical projects on computer vision is an asset. Finally, the candidate must have an interest to work in research activities.
+## Project Description
+Based on the most popular benchmarks used in state-of-the-art, we currently work on designing new architectures to achieve real-time semantic segmentation with RGB-D images. Many other research works can be exploited to improve our results (self-supervised learning, transfer learning, ...). The intern will work on the application of these methods in our designed architectures, and will conduct experiments to validate our proposed approaches.
+
+## Requirements
+The candidate is expected to have great knowledge of computer vision and deep learning. In addition, good programming skills in python and deep learning frameworks (PyTorch and/or Tensorflow) are required. Experience on practical projects on computer vision is an asset. Finally, the candidate must have an interest to work in research activities.
+
+## Contacts
+- Chaabane DJERABA <chabane.djeraba@univ-lille.fr>
+- José MENNESSON <jose.mennesson@univ-lille.fr>
+- Sami BARCHID <sami.barchid@univ-lille.fr>
 
 ## References
 1. Xiaofeng Ren, Liefeng Bo, and Dieter Fox. Rgb-(d) scenelabeling: Features and algorithms. In CVPR, 2012.

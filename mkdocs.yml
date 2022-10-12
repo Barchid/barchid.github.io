@@ -1,0 +1,25 @@
+site_name: Sami Barchid
+theme:
+  name: material
+  palette:
+    scheme: youtube
+    primary: "#d35400"
+  font:
+    text: Montserrat
+markdown_extensions:
+  - attr_list
+  - md_in_html
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/BarchidSami
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/sami-barchid/
+    - icon: fontawesome/brands/github
+      link: https://github.com/Barchid

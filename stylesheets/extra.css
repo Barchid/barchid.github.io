@@ -3,3 +3,7 @@
     --md-primary-fg-color--light: #ECB7B7;
     --md-primary-fg-color--dark:  #90030C;
   }
+
+.md-header {
+  background-image: linear-gradient(to right, #e67e22, #e26c15, #dd5809, #d84202, #d32400);
+}

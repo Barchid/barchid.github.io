@@ -1,6 +1,7 @@
 # Industry CV
 
 ## ⚡ Summary of Qualifications
+
 - **Computer Vision researcher** with 3 years of research experience in deep learning for object
 detection/tracking and 3D scene understanding.
 - Former **Lead Fullstack & DevOps/MLOps engineer** for large-scale real-time applications.
@@ -9,6 +10,7 @@ engineering.
 - **Manager of 5 research projects** in neuromorphic computing.
 
 ## 👔 Professional Experience
+
 === "2020 - Present"
     **PhD Researcher in Bio-inspired Computer Vision** – *University of Lille* 🇫🇷
 
@@ -30,11 +32,13 @@ engineering.
     - Elaborated efficient CI/CD practices to improve the code base.
 
 ## 🎓 Education
+
 - **PhD, Neuromorphic Computer Vision** – University of Lille 🇫🇷 (*2020 – 2023*)
 - **Master’s degree, Computer Vision** (⭐ Valedictorian) – University of Lille 🇫🇷 (*2018 – 2020*)
 - **Bachelor’s degree, Fullstack Engineering** (⭐ Valedictorian) – Institut Paul Lambin 🇧🇪 (*2015 – 2018*)
 
 ## ⚙️ Technical Skills
+
 - **Deep Learning:** PyTorch, Tensorflow, Keras, Lightning (Python)
 - **Data Engineering:** Scikit-Learn, Numpy, Pandas, Jupyter, Metabase
 - **Computer Vision:** OpenCV, Event Cameras (DVS), RGB-D & 3D Camera, CVAT, Tonic
@@ -43,6 +47,7 @@ engineering.
 - **Management:** AGILE project management
 
 ## ➕ Extra
+
 - **🎮 Hobbies:** Game & Web development, Cycling, Fantasy/Sci-fi literature, video games
 - **🥇 Awards:** PhD Entrepreneurship Prize (University of Lille), Student Code Challenge 2019 Gold
 (SkillValue)
